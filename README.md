@@ -15,7 +15,11 @@ O objetivo da aplicação é aprimorar meus conhecimentos sobre a linguagem C# j
   2. Foi instalado a extensão C# no VS Code
  
 ## Rodando o projeto
-- Comando para rodar o projeto no console:
+- Comando para criar um novo projeto de console:
+```
+dotnet new console
+```
+- Comando para rodar o projeto:
 ```
 dotnet run
 ```
