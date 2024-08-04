@@ -3,7 +3,7 @@
 ### Criação de um menu interativo, usando os conceitos de estruturas de repetição.
 
 ## Introdução
-O objetivo da aplicação é aprimorar meus conhecimentos sobre a linguagem C# juntamente com o Framework .NET
+O objetivo dessa aplicação é colocar em prática meus conhecimento, adquiridos no bootcamp Full Stack Developer da DIO, sobre a linguagem C# juntamente com o Framework .NET
 
 ## Tecnologias Utilizadas
 - VS Code;
